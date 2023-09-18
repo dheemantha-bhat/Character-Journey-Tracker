@@ -1,3 +1,13 @@
-1. Find a suitable dataset
-2. Find suitable models to test
-3. Preprocess text 
+# TaskList
+
+1. Find a suitable dataset ... done
+2. Preprocessing dataset ... done
+3. Prepare ground truth for each task
+3. Using LangChain, evaluate LLMs on the following tasks. 
+    a. NER
+    b. Coreference Resolution
+    c. Entailment
+4. Using the best performing LLMs on each of the task, apply the algorithm.
+
+Algorithm
+To be updated...
